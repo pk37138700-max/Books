@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <id>1</id>
+        <title>Internet Concept and Web Design</title>
+        <author>Rajiv Beri For Macmillan India Ltd.</author>
+        <genre>Webpage</genre>
+        <price>1199</price>
+        <image>c.jpg</image> 
+    </book>
+    <book>
+        <id>2</id>
+        <title>Deep Work</title>
+        <author>Cal Newport</author>
+        <genre>Productivity</genre>
+        <price>399</price>
+        <image>Z.jpg</image>
+    </book>
+    <book>
+        <id>1775158606</id>
+        <title>hfg</title>
+        <author>nbchnchg</author>
+        <genre>deooo</genre>
+        <price>300</price>
+        <image>Img3.jpg</image>
+    </book>
+    <book>
+        <id>1775159622</id>
+        <title>fffdaf</title>
+        <author>FFFsg</author>    
+        <genre>dfsf</genre>    
+        <price>2345</price>    
+        <image>dr.jpeg</image>
+    </book>
+</library>

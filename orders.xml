@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<orders>
+<order>
+    <id>1775164869</id>
+    <user_id>1775163266</user_id>
+    <book_id>1</book_id>
+    <date>2026-04-02 23:21:09</date>       
+</order>
+<order><id>1775172936</id><user_id>1775170406</user_id><book_id>1775158606</book_id><date>2026-04-03 01:35:36</date></order></orders>
